@@ -1,13 +1,13 @@
 #!/bin/sh
 
-if [ "$(whoami)" != "naomi" ]; then
-	echo "This user is not naomi. It is not advised to use this script if you are not her, as it *WILL* add her personal configuration to your system."
+if [ "$(whoami)" != "oriongamercat" ]; then
+	echo "This user is not oriongamercat. It is not advised to use this script if you are not him, as it *WILL* add his personal configuration to your system."
 	echo "If this is what you want, then modify this script by hand so that you can use it."
 	# But then don't cry when your config gets fucked up
 	exit 1
 fi
 
-echo "Naomi's Dotfiles!"
+echo "OrionGamerCat's Dotfiles!"
 
 packages="pywal-git git zsh zsh-autosuggestions zsh-completions zsh-history-substring-search zsh-syntax-highlighting"
 optional_packages="zsh-fast-syntax-highlighting cod fzf bat"
