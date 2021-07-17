@@ -10,7 +10,7 @@ fi
 echo "OrionGamerCat's Dotfiles!"
 
 packages="pywal-git git zsh zsh-autosuggestions zsh-completions zsh-history-substring-search zsh-syntax-highlighting"
-optional_packages="zsh-fast-syntax-highlighting cod fzf bat"
+optional_packages="zsh-fast-syntax-highlighting cod fzf bat ttf-nerd-fonts-symbols"
 
 not_found=""
 optional_not_found=""
