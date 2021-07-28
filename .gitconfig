@@ -1,0 +1,15 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	email = sebastian.schiegl@oriongamercat.com
+	name = OrionGamerCat
+	signingkey = CA9DBE4D968F1F36
+[credential]
+	helper = cache
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
