@@ -1,4 +1,4 @@
-# Naomi's dotfiles -- .zshrc
+# Orion's dotfiles -- .zshrc
 # Z Shell Configuration file
 
 #
