@@ -1,0 +1,15 @@
+[Appearance]
+Skin=materia-dark
+SkinInstalledWithKns=true
+Blur=true
+Translucency=true
+
+[Desktop Entry]
+DefaultProfile=
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=34
+KeepOpen=false
