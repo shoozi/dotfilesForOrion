@@ -1,5 +1,5 @@
 export PATH=$HOME/.yarn/bin:$HOME/.local/bin:$PATH
 
-# Virtual machine stuff
+# QEMU Defaults to Root
 export LIBVIRT_DEFAULT_URI="qemu:///system"
 
