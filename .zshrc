@@ -33,6 +33,7 @@ autoload -U colors
 
 # Completion
 autoload -U compinit
+compinit
 zmodload zsh/complist
 
 # Edit command line
