@@ -11,9 +11,6 @@
 # Aliases
 #
 
-# Replace youtube-dl with yt-dlp
-alias youtube-dl='yt-dlp'
-
 # Alias ls utils to show color
 alias ls='ls --color=auto'
 alias grep='grep --colour=auto'
