@@ -13,3 +13,5 @@
 	gpgsign = true
 [tag]
 	gpgSign = true
+[color]
+	ui = auto
