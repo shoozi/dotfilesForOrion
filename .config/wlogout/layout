@@ -1,0 +1,18 @@
+{
+    "label" : "lock",
+    "action" : "exec hyprlock",
+    "text" : "Lock",
+    "keybind" : "j"
+}
+{
+    "label" : "suspend",
+    "action" : "systemctl suspend",
+    "text" : "Suspend",
+    "keybind" : "l"
+}
+{
+    "label" : "shutdown",
+    "action" : "systemctl poweroff",
+    "text" : "Shutdown",
+    "keybind" : "k"
+}
